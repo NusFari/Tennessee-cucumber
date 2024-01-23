@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -35,7 +36,11 @@ build/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+=======
+### Mac OS ###
+>>>>>>> Stashed changes
 .DS_Store
-target
 logs
-screenshot
+.idea
+target
+
